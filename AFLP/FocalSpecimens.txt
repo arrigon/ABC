@@ -1,0 +1,492 @@
+Tag	Pop	Comment	TypAeg	NDD	EDD	Alt	Taes	Tdur	Aeg	Mil
+7220	695422	BENAOCAZ (Sortie du village)	triun	36.69529	-5.42203	780.95	0	0	0.999	1
+7221	695422	BENAOCAZ (Sortie du village)	triun	36.69529	-5.42203	780.95	0	0	0.999	1
+7223	695422	BENAOCAZ (Sortie du village)	triun	36.69529	-5.42203	780.95	0	0	0.999	1
+7224	695422	BENAOCAZ (Sortie du village)	triun	36.69529	-5.42203	780.95	0.001	0.009	0.99	1
+7225	695422	BENAOCAZ (Sortie du village)	triun	36.69529	-5.42203	780.95	0.001	0	0.998	1
+7227	695422	BENAOCAZ (Sortie du village)	triun	36.69529	-5.42203	780.95	0	0	0.999	1
+7229	695422	BENAOCAZ (Sortie du village)	triun	36.69529	-5.42203	780.95	0.005	0.048	0.947	1
+7233	695422	BENAOCAZ (Sortie du village)	triun	36.69529	-5.42203	780.95	0.001	0.002	0.997	1
+7234	695422	BENAOCAZ (Sortie du village)	triun	36.69529	-5.42203	780.95	0.001	0.001	0.999	1
+7235	695422	BENAOCAZ (Sortie du village)	triun	36.69529	-5.42203	780.95	0.002	0.002	0.996	1
+7236	695422	BENAOCAZ (Sortie du village)	triun	36.69529	-5.42203	780.95	0	0	0.999	1
+7237	695422	BENAOCAZ (Sortie du village)	triun	36.69529	-5.42203	780.95	0	0.001	0.999	1
+7238	702466	Belle Pature a orchidee	triun	36.70274	-5.46686	418.54	0.001	0.001	0.999	2
+7239	702466	Belle Pature a orchidee	triun	36.70274	-5.46686	418.54	0.004	0.007	0.989	2
+7240	702466	Belle Pature a orchidee	triun	36.70274	-5.46686	418.54	0	0	0.999	2
+7241	702466	Belle Pature a orchidee	triun	36.70274	-5.46686	418.54	0.001	0	0.999	2
+7242	702466	Belle Pature a orchidee	triun	36.70274	-5.46686	418.54	0	0	0.999	2
+7244	702466	Belle Pature a orchidee	triun	36.70274	-5.46686	418.54	0	0	0.999	2
+7245	702466	Belle Pature a orchidee	triun	36.70274	-5.46686	418.54	0.001	0.214	0.785	2
+7246	702466	Belle Pature a orchidee	triun	36.70274	-5.46686	418.54	0.003	0.018	0.979	2
+7247	702466	Belle Pature a orchidee	triun	36.70274	-5.46686	418.54	0.001	0.001	0.998	2
+7248	702466	Belle Pature a orchidee	triun	36.70274	-5.46686	418.54	0.001	0.001	0.999	2
+7250	702466	Belle Pature a orchidee	triun	36.70274	-5.46686	418.54	0.002	0.085	0.914	2
+7251	702466	Belle Pature a orchidee	triun	36.70274	-5.46686	418.54	0.001	0.001	0.998	2
+7252	702466	Belle Pature a orchidee	triun	36.70274	-5.46686	418.54	0	0	0.999	2
+7254	702466	Belle Pature a orchidee	triun	36.70274	-5.46686	418.54	0.011	0.036	0.953	2
+7257	702466	Belle Pature a orchidee	triun	36.70274	-5.46686	418.54	0	0	0.999	2
+7258	702466	Belle Pature a orchidee	triun	36.70274	-5.46686	418.54	0.006	0.002	0.991	2
+7260	702466	Belle Pature a orchidee	triun	36.70274	-5.46686	418.54	0.002	0.011	0.987	2
+7299	715451	Casserio Hondo belle pature.	triun	36.71563	-5.45151	390.42	0	0	0.999	1
+7300	715451	Casserio Hondo belle pature.	triun	36.71563	-5.45151	390.42	0.033	0.013	0.954	1
+7301	715451	Casserio Hondo belle pature.	triun	36.71563	-5.45151	390.42	0.001	0.001	0.999	1
+7302	715451	Casserio Hondo belle pature.	triun	36.71563	-5.45151	390.42	0.002	0.006	0.993	1
+7303	715451	Casserio Hondo belle pature.	triun	36.71563	-5.45151	390.42	0.018	0.032	0.95	1
+7304	715451	Casserio Hondo belle pature.	triun	36.71563	-5.45151	390.42	0.001	0.001	0.998	1
+7305	715451	Casserio Hondo belle pature.	triun	36.71563	-5.45151	390.42	0.002	0.001	0.997	1
+7306	715451	Casserio Hondo belle pature.	triun	36.71563	-5.45151	390.42	0.007	0.006	0.987	1
+7307	715451	Casserio Hondo belle pature.	triun	36.71563	-5.45151	390.42	0.002	0.001	0.997	1
+7308	715451	Casserio Hondo belle pature.	triun	36.71563	-5.45151	390.42	0.007	0.01	0.983	1
+7309	715451	Casserio Hondo belle pature.	triun	36.71563	-5.45151	390.42	0	0.001	0.999	1
+7311	715451	Casserio Hondo belle pature.	triun	36.71563	-5.45151	390.42	0.026	0.01	0.964	1
+7312	715451	Casserio Hondo belle pature.	triun	36.71563	-5.45151	390.42	0.001	0.001	0.998	1
+7315	715451	Casserio Hondo belle pature.	triun	36.71563	-5.45151	390.42	0.003	0.019	0.978	1
+7353	731227	Chemin bord de ble	triun	36.73178	-5.22798	504.33	0	0.001	0.999	3
+7354	731227	Chemin bord de ble	triun	36.73178	-5.22798	504.33	0	0	0.999	3
+7355	731227	Chemin bord de ble	triun	36.73178	-5.22798	504.33	0.003	0.215	0.782	3
+7356	731227	Chemin bord de ble	triun	36.73178	-5.22798	504.33	0	0	0.999	3
+7357	731227	Chemin bord de ble	triun	36.73178	-5.22798	504.33	0.001	0.168	0.831	3
+7358	731227	Chemin bord de ble	triun	36.73178	-5.22798	504.33	0.001	0.001	0.998	3
+7359	731227	Chemin bord de ble	triun	36.73178	-5.22798	504.33	0.002	0.001	0.997	3
+7360	731227	Chemin bord de ble	triun	36.73178	-5.22798	504.33	0.001	0	0.999	3
+7361	731227	Chemin bord de ble	triun	36.73178	-5.22798	504.33	0	0	0.999	3
+7362	731227	Chemin bord de ble	triun	36.73178	-5.22798	504.33	0.006	0.041	0.953	3
+7363	731227	Chemin bord de ble	triun	36.73178	-5.22798	504.33	0	0	0.999	3
+7364	731227	Chemin bord de ble	triun	36.73178	-5.22798	504.33	0	0	0.999	3
+7365	731227	Chemin bord de ble	triun	36.73178	-5.22798	504.33	0	0	0.999	3
+7366	731227	Chemin bord de ble	triun	36.73178	-5.22798	504.33	0.004	0.087	0.909	3
+7367	731227	Chemin bord de ble	triun	36.73178	-5.22798	504.33	0.001	0.001	0.998	3
+7368	731227	Chemin bord de ble	triun	36.73178	-5.22798	504.33	0.001	0	0.999	3
+7369	731227	Chemin bord de ble	triun	36.73178	-5.22798	504.33	0.003	0.145	0.852	3
+7370	731227	Chemin bord de ble	triun	36.73178	-5.22798	504.33	0.001	0.001	0.999	3
+7371	731227	Chemin bord de ble	triun	36.73178	-5.22798	504.33	0.007	0.125	0.868	3
+7372	731227	Chemin bord de ble	triun	36.73178	-5.22798	504.33	0	0	0.999	3
+7373	731227	Chemin bord de ble	triun	36.73178	-5.22798	504.33	0.004	0.001	0.995	3
+7374	731227	Chemin bord de ble	triun	36.73178	-5.22798	504.33	0	0	0.999	3
+7375	731227	Chemin bord de ble	triun	36.73178	-5.22798	504.33	0	0.001	0.999	3
+7456	748346	Pature a Ulex grazalema.	triun	36.74892	-5.34655	811.95	0.002	0.003	0.996	2
+7457	748346	Pature a Ulex grazalema.	triun	36.74892	-5.34655	811.95	0.001	0.002	0.997	2
+7458	748346	Pature a Ulex grazalema.	triun	36.74892	-5.34655	811.95	0.001	0.001	0.999	2
+7459	748346	Pature a Ulex grazalema.	triun	36.74892	-5.34655	811.95	0.006	0.057	0.937	2
+7460	748346	Pature a Ulex grazalema.	triun	36.74892	-5.34655	811.95	0	0	0.999	2
+7461	748346	Pature a Ulex grazalema.	triun	36.74892	-5.34655	811.95	0.015	0.05	0.935	2
+7463	748346	Pature a Ulex grazalema.	triun	36.74892	-5.34655	811.95	0.002	0.264	0.734	2
+7464	748346	Pature a Ulex grazalema.	triun	36.74892	-5.34655	811.95	0	0	0.999	2
+7465	748346	Pature a Ulex grazalema.	triun	36.74892	-5.34655	811.95	0	0	0.999	2
+7466	748346	Pature a Ulex grazalema.	triun	36.74892	-5.34655	811.95	0.001	0.001	0.997	2
+7468	748346	Pature a Ulex grazalema.	triun	36.74892	-5.34655	811.95	0.001	0.002	0.997	2
+7469	748346	Pature a Ulex grazalema.	triun	36.74892	-5.34655	811.95	0	0	0.999	2
+7470	748346	Pature a Ulex grazalema.	triun	36.74892	-5.34655	811.95	0.001	0.001	0.998	2
+7455b	748346	Pature a Ulex grazalema.	triun	36.74892	-5.34655	811.95	0.001	0.001	0.998	2
+7497	753210	Patch entoure de ble dur	triun	36.75308	-5.2101	486.07	0	0	0.999	3
+7499	753210	Patch entoure de ble dur	triun	36.75308	-5.2101	486.07	0.008	0.066	0.926	3
+7500	753210	Patch entoure de ble dur	triun	36.75308	-5.2101	486.07	0	0	0.999	3
+7501	753210	Patch entoure de ble dur	triun	36.75308	-5.2101	486.07	0.056	0.067	0.877	3
+7502	753210	Patch entoure de ble dur	triun	36.75308	-5.2101	486.07	0.002	0.093	0.905	3
+7503	753210	Patch entoure de ble dur	triun	36.75308	-5.2101	486.07	0	0	0.999	3
+7504	753210	Patch entoure de ble dur	triun	36.75308	-5.2101	486.07	0.001	0.001	0.999	3
+7507	753210	Patch entoure de ble dur	triun	36.75308	-5.2101	486.07	0.001	0	0.999	3
+7508	753210	Patch entoure de ble dur	triun	36.75308	-5.2101	486.07	0.001	0.001	0.998	3
+7510	753210	Patch entoure de ble dur	triun	36.75308	-5.2101	486.07	0.002	0.001	0.997	3
+7512	753210	Patch entoure de ble dur	triun	36.75308	-5.2101	486.07	0.003	0.002	0.995	3
+7513	753210	Patch entoure de ble dur	triun	36.75308	-5.2101	486.07	0.001	0.001	0.998	3
+7514	753210	Patch entoure de ble dur	triun	36.75308	-5.2101	486.07	0.001	0.118	0.881	3
+7515	753210	Patch entoure de ble dur	triun	36.75308	-5.2101	486.07	0.001	0	0.999	3
+7496b	753210	Patch entoure de ble dur	triun	36.75308	-5.2101	486.07	0	0	0.999	3
+7498_7a	753210	Patch entoure de ble dur	triun	36.75308	-5.2101	486.07	0	0	0.999	3
+7505b	753210	Patch entoure de ble dur	triun	36.75308	-5.2101	486.07	0	0	0.999	3
+7542	755237	Gouffre	triun	36.75564	-5.23749	712.22	0	0	0.999	2
+7544	755237	Gouffre	triun	36.75564	-5.23749	712.22	0.003	0.003	0.994	2
+7546	755237	Gouffre	triun	36.75564	-5.23749	712.22	0.001	0.001	0.999	2
+7548	755237	Gouffre	triun	36.75564	-5.23749	712.22	0.001	0.032	0.967	2
+7549	755237	Gouffre	triun	36.75564	-5.23749	712.22	0	0	0.999	2
+7552	755237	Gouffre	triun	36.75564	-5.23749	712.22	0.002	0.119	0.878	2
+7553	755237	Gouffre	triun	36.75564	-5.23749	712.22	0.001	0.004	0.996	2
+7554	755237	Gouffre	triun	36.75564	-5.23749	712.22	0.018	0.058	0.924	2
+7545b	755237	Gouffre	triun	36.75564	-5.23749	712.22	0.002	0.007	0.99	2
+7602	757282	Pature a moutons pont de pierre	triun	36.75769	-5.28242	701.4	0	0	0.999	2
+7603	757282	Pature a moutons pont de pierre	triun	36.75769	-5.28242	701.4	0	0	0.999	2
+7604	757282	Pature a moutons pont de pierre	triun	36.75769	-5.28242	701.4	0	0	0.999	2
+7605	757282	Pature a moutons pont de pierre	triun	36.75769	-5.28242	701.4	0.001	0	0.999	2
+7606	757282	Pature a moutons pont de pierre	triun	36.75769	-5.28242	701.4	0	0	0.999	2
+7607	757282	Pature a moutons pont de pierre	triun	36.75769	-5.28242	701.4	0	0	0.999	2
+7609	757282	Pature a moutons pont de pierre	triun	36.75769	-5.28242	701.4	0.001	0.279	0.72	2
+7610	757282	Pature a moutons pont de pierre	triun	36.75769	-5.28242	701.4	0.001	0.171	0.828	2
+7611	757282	Pature a moutons pont de pierre	triun	36.75769	-5.28242	701.4	0	0	0.999	2
+7612	757282	Pature a moutons pont de pierre	triun	36.75769	-5.28242	701.4	0	0.001	0.999	2
+7614	757282	Pature a moutons pont de pierre	triun	36.75769	-5.28242	701.4	0.004	0.002	0.994	2
+7615	757282	Pature a moutons pont de pierre	triun	36.75769	-5.28242	701.4	0.001	0.001	0.999	2
+7616	757282	Pature a moutons pont de pierre	triun	36.75769	-5.28242	701.4	0.014	0.051	0.936	2
+7617	757282	Pature a moutons pont de pierre	triun	36.75769	-5.28242	701.4	0	0	0.999	2
+7619	757282	Pature a moutons pont de pierre	triun	36.75769	-5.28242	701.4	0	0	0.999	2
+7620	757282	Pature a moutons pont de pierre	triun	36.75769	-5.28242	701.4	0.016	0.018	0.966	2
+7613_6a	757282	Pature a moutons pont de pierre	triun	36.75769	-5.28242	701.4	0	0.001	0.999	2
+7621	759205	Pop bucolique	triun	36.75967	-5.20578	492.32	0.001	0.002	0.998	3
+7622	759205	Pop bucolique	triun	36.75967	-5.20578	492.32	0	0	0.999	3
+7623	759205	Pop bucolique	triun	36.75967	-5.20578	492.32	0	0	0.999	3
+7624	759205	Pop bucolique	triun	36.75967	-5.20578	492.32	0.001	0.001	0.999	3
+7625	759205	Pop bucolique	triun	36.75967	-5.20578	492.32	0.001	0.001	0.998	3
+7626	759205	Pop bucolique	triun	36.75967	-5.20578	492.32	0.002	0.002	0.997	3
+7627	759205	Pop bucolique	triun	36.75967	-5.20578	492.32	0.001	0.001	0.998	3
+7628	759205	Pop bucolique	triun	36.75967	-5.20578	492.32	0.002	0.002	0.996	3
+7629	759205	Pop bucolique	triun	36.75967	-5.20578	492.32	0.01	0.109	0.882	3
+7630	759205	Pop bucolique	triun	36.75967	-5.20578	492.32	0.002	0.003	0.996	3
+7631	759205	Pop bucolique	triun	36.75967	-5.20578	492.32	0	0	0.999	3
+7632	759205	Pop bucolique	triun	36.75967	-5.20578	492.32	0.001	0.001	0.998	3
+7633	759205	Pop bucolique	triun	36.75967	-5.20578	492.32	0.004	0.001	0.995	3
+7634	759205	Pop bucolique	triun	36.75967	-5.20578	492.32	0.004	0.002	0.994	3
+7635	759205	Pop bucolique	triun	36.75967	-5.20578	492.32	0.001	0	0.999	3
+7645	759205	Pop bucolique	triun	36.75967	-5.20578	492.32	0.019	0.315	0.666	3
+7668	760490	Pop du sioux 	triun	36.76051	-5.49007	629.06	0	0	0.999	1
+7670	760490	Pop du sioux 	triun	36.76051	-5.49007	629.06	0	0	0.999	1
+7671	760490	Pop du sioux 	triun	36.76051	-5.49007	629.06	0.001	0.001	0.999	1
+7693	762359	Juste derriere grazalema	triun	36.762	-5.359	0	0.001	0.001	0.999	1
+7694	762359	Juste derriere grazalema	triun	36.762	-5.359	0	0.002	0.001	0.997	1
+7695	762359	Juste derriere grazalema	triun	36.762	-5.359	0	0.001	0.001	0.999	1
+7696	762359	Juste derriere grazalema	triun	36.762	-5.359	0	0.002	0.002	0.996	1
+7697	762359	Juste derriere grazalema	triun	36.762	-5.359	0	0	0	0.999	1
+7698	762359	Juste derriere grazalema	triun	36.762	-5.359	0	0.001	0	0.999	1
+7699	762359	Juste derriere grazalema	triun	36.762	-5.359	0	0	0	0.999	1
+7700	762359	Juste derriere grazalema	triun	36.762	-5.359	0	0.011	0.005	0.984	1
+7703	762359	Juste derriere grazalema	triun	36.762	-5.359	0	0.001	0.001	0.998	1
+7704	762359	Juste derriere grazalema	triun	36.762	-5.359	0	0.001	0.001	0.999	1
+7705	762359	Juste derriere grazalema	triun	36.762	-5.359	0	0	0.001	0.999	1
+7706	762359	Juste derriere grazalema	triun	36.762	-5.359	0	0	0	0.999	1
+7707	762359	Juste derriere grazalema	triun	36.762	-5.359	0	0	0	0.999	1
+7708	762359	Juste derriere grazalema	triun	36.762	-5.359	0	0.002	0.003	0.995	1
+7702b	762359	Juste derriere grazalema	triun	36.762	-5.359	0	0.001	0	0.999	1
+7736	764152	pature a cote du ble. Agrostemma	triun	36.76403	-5.15207	629.54	0.001	0.001	0.999	3
+7738	764152	pature a cote du ble. Agrostemma	triun	36.76403	-5.15207	629.54	0.003	0.025	0.972	3
+7739	764152	pature a cote du ble. Agrostemma	triun	36.76403	-5.15207	629.54	0.016	0.024	0.961	3
+7740	764152	pature a cote du ble. Agrostemma	triun	36.76403	-5.15207	629.54	0.001	0.038	0.961	3
+7741	764152	pature a cote du ble. Agrostemma	triun	36.76403	-5.15207	629.54	0.001	0.002	0.997	3
+7742	764152	pature a cote du ble. Agrostemma	triun	36.76403	-5.15207	629.54	0	0	0.999	3
+7744	764152	pature a cote du ble. Agrostemma	triun	36.76403	-5.15207	629.54	0.001	0.001	0.999	3
+7745	764152	pature a cote du ble. Agrostemma	triun	36.76403	-5.15207	629.54	0	0	0.999	3
+7746	764152	pature a cote du ble. Agrostemma	triun	36.76403	-5.15207	629.54	0	0	0.999	3
+7785	769355	Pature sous grazalema dans virage	triun	36.76967	-5.35588	0	0.001	0	0.999	2
+7786	769355	Pature sous grazalema dans virage	triun	36.76967	-5.35588	0	0.002	0.141	0.856	2
+7787	769355	Pature sous grazalema dans virage	triun	36.76967	-5.35588	0	0	0.001	0.999	2
+7790	769355	Pature sous grazalema dans virage	triun	36.76967	-5.35588	0	0.001	0.001	0.999	2
+7792	769355	Pature sous grazalema dans virage	triun	36.76967	-5.35588	0	0.001	0.001	0.998	2
+7793	769355	Pature sous grazalema dans virage	triun	36.76967	-5.35588	0	0	0	0.999	2
+7795	769355	Pature sous grazalema dans virage	triun	36.76967	-5.35588	0	0.001	0.001	0.998	2
+7796	769355	Pature sous grazalema dans virage	triun	36.76967	-5.35588	0	0.001	0.001	0.998	2
+7797	769355	Pature sous grazalema dans virage	triun	36.76967	-5.35588	0	0.001	0.001	0.999	2
+7798	769355	Pature sous grazalema dans virage	triun	36.76967	-5.35588	0	0	0.001	0.999	2
+7799	769355	Pature sous grazalema dans virage	triun	36.76967	-5.35588	0	0.001	0.001	0.998	2
+7800	769355	Pature sous grazalema dans virage	triun	36.76967	-5.35588	0	0	0.001	0.999	2
+7801	769355	Pature sous grazalema dans virage	triun	36.76967	-5.35588	0	0	0	0.999	2
+7802	769355	Pature sous grazalema dans virage	triun	36.76967	-5.35588	0	0.001	0.001	0.999	2
+6065	774273	Pature a mouton du dernier jour	triun	36.77444	-5.2738	779	0.002	0.004	0.994	2
+7870	774273	Pature a mouton du dernier jour	triun	36.774	-5.273	0	0	0	0.999	2
+7872	774273	Pature a mouton du dernier jour	triun	36.774	-5.273	0	0	0.001	0.999	2
+7873	774273	Pature a mouton du dernier jour	triun	36.774	-5.273	0	0	0	0.999	2
+7874	774273	Pature a mouton du dernier jour	triun	36.774	-5.273	0	0.022	0.051	0.927	2
+7876	774273	Pature a mouton du dernier jour	triun	36.774	-5.273	0	0	0	0.999	2
+7878	774273	Pature a mouton du dernier jour	triun	36.774	-5.273	0	0.001	0.001	0.999	2
+7879	774273	Pature a mouton du dernier jour	triun	36.774	-5.273	0	0.001	0.001	0.999	2
+7880	774273	Pature a mouton du dernier jour	triun	36.774	-5.273	0	0	0	0.999	2
+7881	774273	Pature a mouton du dernier jour	triun	36.774	-5.273	0	0.001	0.001	0.999	2
+7882	774273	Pature a mouton du dernier jour	triun	36.774	-5.273	0	0.006	0.008	0.986	2
+7883	774273	Pature a mouton du dernier jour	triun	36.774	-5.273	0	0.004	0.258	0.739	2
+7885	774273	Pature a mouton du dernier jour	triun	36.774	-5.273	0	0	0	0.999	2
+7886	774273	Pature a mouton du dernier jour	triun	36.774	-5.273	0	0.006	0.075	0.919	2
+7887	774273	Pature a mouton du dernier jour	triun	36.774	-5.273	0	0	0	0.999	2
+7888	774273	Pature a mouton du dernier jour	triun	36.774	-5.273	0	0	0	0.999	2
+7889	774273	Pature a mouton du dernier jour	triun	36.774	-5.273	0	0	0	0.999	2
+7903	777626	Grande plaine, bord du ble tendre. Arbre mort	triun	36.774	-5.273	0	0.001	0.001	0.998	3
+7904	777626	Grande plaine, bord du ble tendre. Arbre mort	triun	36.77729	-5.62665	181.57	0.001	0.001	0.999	3
+7905	777626	Grande plaine, bord du ble tendre. Arbre mort	triun	36.77729	-5.62665	181.57	0.002	0.001	0.997	3
+7906	777626	Grande plaine, bord du ble tendre. Arbre mort	triun	36.77729	-5.62665	181.57	0.001	0.216	0.783	3
+7907	777626	Grande plaine, bord du ble tendre. Arbre mort	triun	36.77729	-5.62665	181.57	0	0	0.999	3
+7908	777626	Grande plaine, bord du ble tendre. Arbre mort	triun	36.77729	-5.62665	181.57	0	0.001	0.999	3
+7909	777626	Grande plaine, bord du ble tendre. Arbre mort	triun	36.77729	-5.62665	181.57	0.007	0.008	0.985	3
+7910	777626	Grande plaine, bord du ble tendre. Arbre mort	triun	36.77729	-5.62665	181.57	0.001	0.001	0.998	3
+7911	777626	Grande plaine, bord du ble tendre. Arbre mort	triun	36.77729	-5.62665	181.57	0.002	0.004	0.994	3
+7912	777626	Grande plaine, bord du ble tendre. Arbre mort	triun	36.77729	-5.62665	181.57	0.008	0.055	0.937	3
+7913	777626	Grande plaine, bord du ble tendre. Arbre mort	triun	36.77729	-5.62665	181.57	0.001	0.001	0.999	3
+7914	777626	Grande plaine, bord du ble tendre. Arbre mort	triun	36.77729	-5.62665	181.57	0.003	0.045	0.951	3
+7916	777626	Grande plaine, bord du ble tendre. Arbre mort	triun	36.77729	-5.62665	181.57	0	0	0.999	3
+7917	777626	Grande plaine, bord du ble tendre. Arbre mort	triun	36.77729	-5.62665	181.57	0.002	0.227	0.771	3
+7918	777626	Grande plaine, bord du ble tendre. Arbre mort	triun	36.77729	-5.62665	181.57	0.001	0.001	0.999	3
+7919	777626	Grande plaine, bord du ble tendre. Arbre mort	triun	36.77729	-5.62665	181.57	0	0	0.999	3
+7921	777626	Grande plaine, bord du ble tendre. Arbre mort	triun	36.77729	-5.62665	181.57	0.002	0.003	0.995	3
+7922	777626	Grande plaine, bord du ble tendre. Arbre mort	triun	36.77729	-5.62665	181.57	0	0	0.999	3
+7920b	777626	Grande plaine, bord du ble tendre. Arbre mort	triun	36.77729	-5.62665	181.57	0.001	0.002	0.998	3
+7924	778180	Bord de chemin.	triun	36.77809	-5.18025	561.53	0	0	0.999	3
+7925	778180	Bord de chemin.	triun	36.77809	-5.18025	561.53	0.001	0	0.999	3
+7927	778180	Bord de chemin.	triun	36.77809	-5.18025	561.53	0	0	0.999	3
+7928	778180	Bord de chemin.	triun	36.77809	-5.18025	561.53	0.002	0.002	0.996	3
+7929	778180	Bord de chemin.	triun	36.77809	-5.18025	561.53	0.002	0.092	0.906	3
+7930	778180	Bord de chemin.	triun	36.77809	-5.18025	561.53	0.002	0.003	0.996	3
+7931	778180	Bord de chemin.	triun	36.77809	-5.18025	561.53	0.001	0.001	0.999	3
+7932	778180	Bord de chemin.	triun	36.77809	-5.18025	561.53	0.001	0.157	0.842	3
+7934	778180	Bord de chemin.	triun	36.77809	-5.18025	561.53	0.01	0.011	0.979	3
+7936	778180	Bord de chemin.	triun	36.77809	-5.18025	561.53	0	0	0.999	3
+7937	778180	Bord de chemin.	triun	36.77809	-5.18025	561.53	0.001	0.001	0.998	3
+7938	778180	Bord de chemin.	triun	36.77809	-5.18025	561.53	0.031	0.027	0.942	3
+7939	778180	Bord de chemin.	triun	36.77809	-5.18025	561.53	0	0	0.999	3
+7940	778180	Bord de chemin.	triun	36.77809	-5.18025	561.53	0.001	0.136	0.863	3
+7941	778180	Bord de chemin.	triun	36.77809	-5.18025	561.53	0.003	0.021	0.976	3
+7942	778180	Bord de chemin.	triun	36.77809	-5.18025	561.53	0.001	0.001	0.998	3
+7943	778180	Bord de chemin.	triun	36.77809	-5.18025	561.53	0.001	0.001	0.999	3
+7944	778180	Bord de chemin.	triun	36.77809	-5.18025	561.53	0.001	0.001	0.999	3
+7933b	778180	Bord de chemin.	triun	36.77809	-5.18025	561.53	0.001	0.001	0.998	3
+7946	780518	Ble 6x chemin el bosque-villamartin	triun	36.78093	-5.51893	353.17	0.001	0.001	0.998	3
+7947	780518	Ble 6x chemin el bosque-villamartin	triun	36.78093	-5.51893	353.17	0.001	0.028	0.971	3
+7948	780518	Ble 6x chemin el bosque-villamartin	triun	36.78093	-5.51893	353.17	0	0	0.999	3
+7949	780518	Ble 6x chemin el bosque-villamartin	triun	36.78093	-5.51893	353.17	0	0	0.999	3
+7950	780518	Ble 6x chemin el bosque-villamartin	triun	36.78093	-5.51893	353.17	0	0.001	0.999	3
+7951	780518	Ble 6x chemin el bosque-villamartin	triun	36.78093	-5.51893	353.17	0	0.003	0.997	3
+7953	780518	Ble 6x chemin el bosque-villamartin	triun	36.78093	-5.51893	353.17	0.001	0.001	0.998	3
+7954	780518	Ble 6x chemin el bosque-villamartin	triun	36.78093	-5.51893	353.17	0.001	0	0.999	3
+7955	780518	Ble 6x chemin el bosque-villamartin	triun	36.78093	-5.51893	353.17	0.001	0.002	0.997	3
+7956	780518	Ble 6x chemin el bosque-villamartin	triun	36.78093	-5.51893	353.17	0	0	0.999	3
+7958	780518	Ble 6x chemin el bosque-villamartin	triun	36.78093	-5.51893	353.17	0.001	0.001	0.998	3
+7959	780518	Ble 6x chemin el bosque-villamartin	triun	36.78093	-5.51893	353.17	0.001	0.001	0.998	3
+7960	780518	Ble 6x chemin el bosque-villamartin	triun	36.78093	-5.51893	353.17	0	0	0.999	3
+7961	780518	Ble 6x chemin el bosque-villamartin	triun	36.78093	-5.51893	353.17	0.006	0.157	0.837	3
+7962	780518	Ble 6x chemin el bosque-villamartin	triun	36.78093	-5.51893	353.17	0	0	0.999	3
+7963	780518	Ble 6x chemin el bosque-villamartin	triun	36.78093	-5.51893	353.17	0.017	0.146	0.837	3
+7964	780518	Ble 6x chemin el bosque-villamartin	triun	36.78093	-5.51893	353.17	0.001	0.001	0.998	3
+7965	780518	Ble 6x chemin el bosque-villamartin	triun	36.78093	-5.51893	353.17	0.001	0.001	0.999	3
+7976	784147	Le long du ble dur vers Ronda	triun	36.78408	-5.14744	593.74	0	0	0.999	3
+7977	784147	Le long du ble dur vers Ronda	triun	36.78408	-5.14744	593.74	0.001	0.001	0.999	3
+7978	784147	Le long du ble dur vers Ronda	triun	36.78408	-5.14744	593.74	0.001	0.001	0.998	3
+7980	784147	Le long du ble dur vers Ronda	triun	36.78408	-5.14744	593.74	0.002	0.221	0.777	3
+7981	784147	Le long du ble dur vers Ronda	triun	36.78408	-5.14744	593.74	0.001	0.001	0.998	3
+7982	784147	Le long du ble dur vers Ronda	triun	36.78408	-5.14744	593.74	0.001	0.001	0.999	3
+7983	784147	Le long du ble dur vers Ronda	triun	36.78408	-5.14744	593.74	0.001	0.001	0.999	3
+7985	784147	Le long du ble dur vers Ronda	triun	36.78408	-5.14744	593.74	0.001	0.001	0.999	3
+7986	784147	Le long du ble dur vers Ronda	triun	36.78408	-5.14744	593.74	0.001	0.001	0.999	3
+7987	784147	Le long du ble dur vers Ronda	triun	36.78408	-5.14744	593.74	0.001	0.001	0.999	3
+7991	784147	Le long du ble dur vers Ronda	triun	36.78408	-5.14744	593.74	0.001	0.03	0.969	3
+7992	784147	Le long du ble dur vers Ronda	triun	36.78408	-5.14744	593.74	0.001	0.001	0.999	3
+7994	784147	Le long du ble dur vers Ronda	triun	36.78408	-5.14744	593.74	0.002	0.269	0.729	3
+7996	784147	Le long du ble dur vers Ronda	triun	36.78408	-5.14744	593.74	0.001	0.001	0.999	3
+7990_7a	784147	Le long du ble dur vers Ronda	triun	36.78408	-5.14744	593.74	0.001	0.001	0.999	3
+8039	785499	Chemin apres el bosque	triun	36.785	-5.49924	358.45	0	0	0.999	2
+8041	785499	Chemin apres el bosque	triun	36.785	-5.49924	358.45	0	0	0.999	2
+8042	785499	Chemin apres el bosque	triun	36.785	-5.49924	358.45	0.001	0.001	0.998	2
+8044	785499	Chemin apres el bosque	triun	36.785	-5.49924	358.45	0.001	0.001	0.999	2
+8045	785499	Chemin apres el bosque	triun	36.785	-5.49924	358.45	0.001	0.001	0.999	2
+8046	785499	Chemin apres el bosque	triun	36.785	-5.49924	358.45	0	0	0.999	2
+8048	785499	Chemin apres el bosque	triun	36.785	-5.49924	358.45	0.021	0.014	0.965	2
+8049	785499	Chemin apres el bosque	triun	36.785	-5.49924	358.45	0.029	0.01	0.961	2
+8050	785499	Chemin apres el bosque	triun	36.785	-5.49924	358.45	0	0	0.999	2
+8051	785499	Chemin apres el bosque	triun	36.785	-5.49924	358.45	0.001	0.001	0.999	2
+8053	785499	Chemin apres el bosque	triun	36.785	-5.49924	358.45	0.001	0.001	0.998	2
+8054	785499	Chemin apres el bosque	triun	36.785	-5.49924	358.45	0.002	0.001	0.998	2
+8056	785499	Chemin apres el bosque	triun	36.785	-5.49924	358.45	0.001	0.001	0.998	2
+8057	785499	Chemin apres el bosque	triun	36.785	-5.49924	358.45	0	0	0.999	2
+8058	785499	Chemin apres el bosque	triun	36.785	-5.49924	358.45	0.001	0.212	0.787	2
+8059	785499	Chemin apres el bosque	triun	36.785	-5.49924	358.45	0.013	0.11	0.877	2
+8060	785499	Chemin apres el bosque	triun	36.785	-5.49924	358.45	0.001	0.001	0.998	2
+8047_8a	785499	Chemin apres el bosque	triun	36.785	-5.49924	358.45	0.001	0	0.999	2
+8052b	785499	Chemin apres el bosque	triun	36.785	-5.49924	358.45	0	0	0.999	2
+8081	787325	Pature tres isolee.	triun	36.78795	-5.32578	502.17	0.002	0.002	0.996	1
+8082	787325	Pature tres isolee.	triun	36.78795	-5.32578	502.17	0.001	0	0.999	1
+8083	787325	Pature tres isolee.	triun	36.78795	-5.32578	502.17	0.001	0	0.999	1
+8084	787325	Pature tres isolee.	triun	36.78795	-5.32578	502.17	0.001	0.001	0.998	1
+8085	787325	Pature tres isolee.	triun	36.78795	-5.32578	502.17	0.001	0.001	0.998	1
+8086	787325	Pature tres isolee.	triun	36.78795	-5.32578	502.17	0.001	0.001	0.999	1
+8087	787325	Pature tres isolee.	triun	36.78795	-5.32578	502.17	0.001	0	0.999	1
+8088	787325	Pature tres isolee.	triun	36.78795	-5.32578	502.17	0.001	0	0.999	1
+8111	789353	Pop de bord de chemin avec tres gros chene	triun	36.78987	-5.35345	0	0.001	0.057	0.942	2
+8113	789353	Pop de bord de chemin avec tres gros chene	triun	36.78987	-5.35345	0	0	0	0.999	2
+8114	789353	Pop de bord de chemin avec tres gros chene	triun	36.78987	-5.35345	0	0.001	0.001	0.999	2
+8115	789353	Pop de bord de chemin avec tres gros chene	triun	36.78987	-5.35345	0	0.002	0.002	0.997	2
+8116	789353	Pop de bord de chemin avec tres gros chene	triun	36.78987	-5.35345	0	0.001	0.001	0.998	2
+8118	789353	Pop de bord de chemin avec tres gros chene	triun	36.78987	-5.35345	0	0.004	0.095	0.9	2
+8119	789353	Pop de bord de chemin avec tres gros chene	triun	36.78987	-5.35345	0	0	0	0.999	2
+8120	789353	Pop de bord de chemin avec tres gros chene	triun	36.78987	-5.35345	0	0.002	0.23	0.768	2
+8121	789353	Pop de bord de chemin avec tres gros chene	triun	36.78987	-5.35345	0	0.001	0.001	0.999	2
+8122	789353	Pop de bord de chemin avec tres gros chene	triun	36.78987	-5.35345	0	0	0	0.999	2
+8123	789353	Pop de bord de chemin avec tres gros chene	triun	36.78987	-5.35345	0	0	0	0.999	2
+8125	789353	Pop de bord de chemin avec tres gros chene	triun	36.78987	-5.35345	0	0.002	0.05	0.947	2
+8128	789353	Pop de bord de chemin avec tres gros chene	triun	36.78987	-5.35345	0	0.015	0.108	0.876	2
+8129	789353	Pop de bord de chemin avec tres gros chene	triun	36.78987	-5.35345	0	0.001	0.001	0.998	2
+8130	789353	Pop de bord de chemin avec tres gros chene	triun	36.78987	-5.35345	0	0.001	0.134	0.864	2
+8112b	789353	Pop de bord de chemin avec tres gros chene	triun	36.78987	-5.35345	0	0.001	0.001	0.999	2
+8117b	789353	Pop de bord de chemin avec tres gros chene	triun	36.78987	-5.35345	0	0.001	0.016	0.983	2
+8149	794150	Entre ble dur et tendre (Ronda)	triun	36.7949	-5.15026	591.09	0	0	0.999	3
+8150	794150	Entre ble dur et tendre (Ronda)	triun	36.7949	-5.15026	591.09	0.001	0	0.999	3
+8152	794150	Entre ble dur et tendre (Ronda)	triun	36.7949	-5.15026	591.09	0.001	0.001	0.999	3
+8153	794150	Entre ble dur et tendre (Ronda)	triun	36.7949	-5.15026	591.09	0.002	0.001	0.997	3
+8154	794150	Entre ble dur et tendre (Ronda)	triun	36.7949	-5.15026	591.09	0.001	0.001	0.998	3
+8155	794150	Entre ble dur et tendre (Ronda)	triun	36.7949	-5.15026	591.09	0.001	0.001	0.998	3
+8156	794150	Entre ble dur et tendre (Ronda)	triun	36.7949	-5.15026	591.09	0.001	0	0.999	3
+8159	794150	Entre ble dur et tendre (Ronda)	triun	36.7949	-5.15026	591.09	0.002	0.002	0.996	3
+8160	794150	Entre ble dur et tendre (Ronda)	triun	36.7949	-5.15026	591.09	0	0	0.999	3
+8161	794150	Entre ble dur et tendre (Ronda)	triun	36.7949	-5.15026	591.09	0.001	0.001	0.998	3
+8162	794150	Entre ble dur et tendre (Ronda)	triun	36.7949	-5.15026	591.09	0.001	0.001	0.998	3
+8163	794150	Entre ble dur et tendre (Ronda)	triun	36.7949	-5.15026	591.09	0.001	0.195	0.804	3
+8164	794150	Entre ble dur et tendre (Ronda)	triun	36.7949	-5.15026	591.09	0.002	0.001	0.997	3
+8165	794150	Entre ble dur et tendre (Ronda)	triun	36.7949	-5.15026	591.09	0.038	0.001	0.961	3
+8158b	794150	Entre ble dur et tendre (Ronda)	triun	36.7949	-5.15026	591.09	0.001	0.001	0.998	3
+8194	797223	Bord des cereales.	triun	36.79711	-5.22316	805.46	0	0.001	0.999	3
+8195	797223	Bord des cereales.	triun	36.79711	-5.22316	805.46	0	0	0.999	3
+8196	797223	Bord des cereales.	triun	36.79711	-5.22316	805.46	0.03	0.063	0.907	3
+8197	797223	Bord des cereales.	triun	36.79711	-5.22316	805.46	0	0	0.999	3
+8198	797223	Bord des cereales.	triun	36.79711	-5.22316	805.46	0.002	0.005	0.993	3
+8200	797223	Bord des cereales.	triun	36.79711	-5.22316	805.46	0.003	0.004	0.992	3
+8201	797223	Bord des cereales.	triun	36.79711	-5.22316	805.46	0.002	0.001	0.997	3
+8203	797223	Bord des cereales.	triun	36.79711	-5.22316	805.46	0.001	0.001	0.998	3
+8204	797223	Bord des cereales.	triun	36.79711	-5.22316	805.46	0.001	0.001	0.999	3
+8205	797223	Bord des cereales.	triun	36.79711	-5.22316	805.46	0.001	0.001	0.999	3
+8206	797223	Bord des cereales.	triun	36.79711	-5.22316	805.46	0.001	0.001	0.999	3
+8208	797223	Bord des cereales.	triun	36.79711	-5.22316	805.46	0.009	0.011	0.979	3
+8209	797223	Bord des cereales.	triun	36.79711	-5.22316	805.46	0	0	0.999	3
+8210	797223	Bord des cereales.	triun	36.79711	-5.22316	805.46	0.002	0.057	0.941	3
+8211	797223	Bord des cereales.	triun	36.79711	-5.22316	805.46	0	0	0.999	3
+8212	797223	Bord des cereales.	triun	36.79711	-5.22316	805.46	0.007	0.004	0.989	3
+8213	797223	Bord des cereales.	triun	36.79711	-5.22316	805.46	0.004	0.006	0.99	3
+8236	797285	Bord du ble (serpent jaune)	triun	36.79789	-5.28519	639.4	0.001	0.001	0.999	3
+8238	797285	Bord du ble (serpent jaune)	triun	36.79789	-5.28519	639.4	0.002	0.001	0.997	3
+8239	797285	Bord du ble (serpent jaune)	triun	36.79789	-5.28519	639.4	0.01	0.006	0.984	3
+8240	797285	Bord du ble (serpent jaune)	triun	36.79789	-5.28519	639.4	0.017	0.028	0.955	3
+8242	797285	Bord du ble (serpent jaune)	triun	36.79789	-5.28519	639.4	0	0	0.999	3
+8243	797285	Bord du ble (serpent jaune)	triun	36.79789	-5.28519	639.4	0.002	0.001	0.997	3
+8244	797285	Bord du ble (serpent jaune)	triun	36.79789	-5.28519	639.4	0.009	0.004	0.987	3
+8245	797285	Bord du ble (serpent jaune)	triun	36.79789	-5.28519	639.4	0.014	0.022	0.965	3
+8247	797285	Bord du ble (serpent jaune)	triun	36.79789	-5.28519	639.4	0.001	0.001	0.998	3
+8249	797285	Bord du ble (serpent jaune)	triun	36.79789	-5.28519	639.4	0.004	0.009	0.987	3
+8250	797285	Bord du ble (serpent jaune)	triun	36.79789	-5.28519	639.4	0.023	0.01	0.966	3
+8251	797285	Bord du ble (serpent jaune)	triun	36.79789	-5.28519	639.4	0	0	0.999	3
+8252	797285	Bord du ble (serpent jaune)	triun	36.79789	-5.28519	639.4	0.003	0.011	0.985	3
+8253	797285	Bord du ble (serpent jaune)	triun	36.79789	-5.28519	639.4	0.001	0.001	0.998	3
+8237_7a	797285	Bord du ble (serpent jaune)	triun	36.79789	-5.28519	639.4	0.001	0.001	0.999	3
+8348	801526	Bord du ble 6x	triun	36.80148	-5.28519	303.42	0.001	0.001	0.999	3
+8349	801526	Bord du ble 6x	triun	36.80148	-5.28519	303.42	0.001	0.001	0.999	3
+8350	801526	Bord du ble 6x	triun	36.80148	-5.28519	303.42	0.001	0.141	0.858	3
+8351	801526	Bord du ble 6x	triun	36.80148	-5.28519	303.42	0.001	0	0.999	3
+8352	801526	Bord du ble 6x	triun	36.80148	-5.28519	303.42	0.015	0.168	0.817	3
+8353	801526	Bord du ble 6x	triun	36.80148	-5.28519	303.42	0.017	0.008	0.974	3
+8355	801526	Bord du ble 6x	triun	36.80148	-5.28519	303.42	0.032	0.003	0.965	3
+8356	801526	Bord du ble 6x	triun	36.80148	-5.28519	303.42	0	0	0.999	3
+8357	801526	Bord du ble 6x	triun	36.80148	-5.28519	303.42	0.002	0.003	0.996	3
+8358	801526	Bord du ble 6x	triun	36.80148	-5.28519	303.42	0.001	0	0.999	3
+8359	801526	Bord du ble 6x	triun	36.80148	-5.28519	303.42	0.001	0.001	0.999	3
+8360	801526	Bord du ble 6x	triun	36.80148	-5.28519	303.42	0.009	0.012	0.979	3
+8361	801526	Bord du ble 6x	triun	36.80148	-5.28519	303.42	0.009	0.002	0.989	3
+8362	801526	Bord du ble 6x	triun	36.80148	-5.28519	303.42	0.009	0.002	0.99	3
+8363	801526	Bord du ble 6x	triun	36.80148	-5.28519	303.42	0.001	0.002	0.998	3
+8365	801526	Bord du ble 6x	triun	36.80148	-5.28519	303.42	0.141	0.001	0.857	3
+8427	804302	Talus de bord de route 	triun	36.804	-5.302	0	0.001	0	0.999	2
+8428	804302	Talus de bord de route 	triun	36.804	-5.302	0	0.005	0.137	0.858	2
+8429	804302	Talus de bord de route 	triun	36.804	-5.302	0	0.001	0.001	0.998	2
+8430	804302	Talus de bord de route 	triun	36.804	-5.302	0	0.001	0.001	0.999	2
+8431	804302	Talus de bord de route 	triun	36.804	-5.302	0	0	0.001	0.999	2
+8434	804302	Talus de bord de route 	triun	36.804	-5.302	0	0	0	0.999	2
+8435	804302	Talus de bord de route 	triun	36.804	-5.302	0	0.001	0.001	0.998	2
+8436	804302	Talus de bord de route 	triun	36.804	-5.302	0	0	0	0.999	2
+8437	804302	Talus de bord de route 	triun	36.804	-5.302	0	0	0.001	0.999	2
+8439	804302	Talus de bord de route 	triun	36.804	-5.302	0	0.002	0.086	0.911	2
+8440	804302	Talus de bord de route 	triun	36.804	-5.302	0	0.001	0.004	0.995	2
+8441	804302	Talus de bord de route 	triun	36.804	-5.302	0	0.003	0.031	0.966	2
+8442	804302	Talus de bord de route 	triun	36.804	-5.302	0	0.001	0.096	0.902	2
+8443	804302	Talus de bord de route 	triun	36.804	-5.302	0	0	0	0.999	2
+8444	804302	Talus de bord de route 	triun	36.804	-5.302	0	0.001	0.001	0.999	2
+8446	804302	Talus de bord de route 	triun	36.804	-5.302	0	0.001	0.271	0.728	2
+8445b	804302	Talus de bord de route 	triun	36.804	-5.302	0	0.001	0.001	0.998	2
+8500	814500	Chemin el Bosque	triun	36.81477	-5.50074	359.66	0.001	0.001	0.998	3
+8501	814500	Chemin el Bosque	triun	36.81477	-5.50074	359.66	0	0	0.999	3
+8502	814500	Chemin el Bosque	triun	36.81477	-5.50074	359.66	0.001	0.001	0.999	3
+8503	814500	Chemin el Bosque	triun	36.81477	-5.50074	359.66	0	0	0.999	3
+8504	814500	Chemin el Bosque	triun	36.81477	-5.50074	359.66	0	0	0.999	3
+8505	814500	Chemin el Bosque	triun	36.81477	-5.50074	359.66	0.001	0.001	0.999	3
+8506	814500	Chemin el Bosque	triun	36.81477	-5.50074	359.66	0.001	0.001	0.999	3
+8508	814500	Chemin el Bosque	triun	36.81477	-5.50074	359.66	0.001	0.002	0.997	3
+8509	814500	Chemin el Bosque	triun	36.81477	-5.50074	359.66	0.002	0.001	0.997	3
+8511	814500	Chemin el Bosque	triun	36.81477	-5.50074	359.66	0	0	0.999	3
+8512	814500	Chemin el Bosque	triun	36.81477	-5.50074	359.66	0.001	0	0.999	3
+8513	814500	Chemin el Bosque	triun	36.81477	-5.50074	359.66	0	0	0.999	3
+8514	814500	Chemin el Bosque	triun	36.81477	-5.50074	359.66	0.001	0.001	0.998	3
+8515	814500	Chemin el Bosque	triun	36.81477	-5.50074	359.66	0.001	0.001	0.998	3
+8516	814500	Chemin el Bosque	triun	36.81477	-5.50074	359.66	0	0.001	0.999	3
+8517	814500	Chemin el Bosque	triun	36.81477	-5.50074	359.66	0.003	0.144	0.852	3
+8518	814500	Chemin el Bosque	triun	36.81477	-5.50074	359.66	0	0	0.999	3
+8519	814500	Chemin el Bosque	triun	36.81477	-5.50074	359.66	0.001	0	0.999	3
+8560	818549	Ble tres belle pop dans un talus fleuris. prado del rey	triun	36.81845	-5.54917	302.22	0	0.003	0.997	3
+8562	818549	Ble tres belle pop dans un talus fleuris. prado del rey	triun	36.81845	-5.54917	302.22	0	0	0.999	3
+8564	818549	Ble tres belle pop dans un talus fleuris. prado del rey	triun	36.81845	-5.54917	302.22	0.001	0.001	0.999	3
+8565	818549	Ble tres belle pop dans un talus fleuris. prado del rey	triun	36.81845	-5.54917	302.22	0	0	0.999	3
+8566	818549	Ble tres belle pop dans un talus fleuris. prado del rey	triun	36.81845	-5.54917	302.22	0.002	0.127	0.872	3
+8567	818549	Ble tres belle pop dans un talus fleuris. prado del rey	triun	36.81845	-5.54917	302.22	0	0	0.999	3
+8568	818549	Ble tres belle pop dans un talus fleuris. prado del rey	triun	36.81845	-5.54917	302.22	0	0	0.999	3
+8569	818549	Ble tres belle pop dans un talus fleuris. prado del rey	triun	36.81845	-5.54917	302.22	0	0	0.999	3
+8571	818549	Ble tres belle pop dans un talus fleuris. prado del rey	triun	36.81845	-5.54917	302.22	0.004	0.001	0.994	3
+8572	818549	Ble tres belle pop dans un talus fleuris. prado del rey	triun	36.81845	-5.54917	302.22	0	0	0.999	3
+8573	818549	Ble tres belle pop dans un talus fleuris. prado del rey	triun	36.81845	-5.54917	302.22	0.001	0	0.998	3
+8574	818549	Ble tres belle pop dans un talus fleuris. prado del rey	triun	36.81845	-5.54917	302.22	0.002	0.157	0.841	3
+8575	818549	Ble tres belle pop dans un talus fleuris. prado del rey	triun	36.81845	-5.54917	302.22	0	0	0.999	3
+8576	818549	Ble tres belle pop dans un talus fleuris. prado del rey	triun	36.81845	-5.54917	302.22	0	0	0.999	3
+8577	818549	Ble tres belle pop dans un talus fleuris. prado del rey	triun	36.81845	-5.54917	302.22	0	0	0.999	3
+8561b	818549	Ble tres belle pop dans un talus fleuris. prado del rey	triun	36.81845	-5.54917	302.22	0.001	0.001	0.998	3
+8618	824598	Bord de route et de tournesol.phasme-sauterelle	triun	36.82476	-5.59896	158.98	0.087	0.052	0.861	3
+8619	824598	Bord de route et de tournesol.phasme-sauterelle	triun	36.82476	-5.59896	158.98	0.001	0.158	0.84	3
+8620	824598	Bord de route et de tournesol.phasme-sauterelle	triun	36.82476	-5.59896	158.98	0.001	0.237	0.762	3
+8621	824598	Bord de route et de tournesol.phasme-sauterelle	triun	36.82476	-5.59896	158.98	0.007	0.239	0.755	3
+8623	824598	Bord de route et de tournesol.phasme-sauterelle	triun	36.82476	-5.59896	158.98	0.002	0.192	0.806	3
+8624	824598	Bord de route et de tournesol.phasme-sauterelle	triun	36.82476	-5.59896	158.98	0.001	0.003	0.996	3
+8627	824598	Bord de route et de tournesol.phasme-sauterelle	triun	36.82476	-5.59896	158.98	0.001	0.001	0.998	3
+8629	824598	Bord de route et de tournesol.phasme-sauterelle	triun	36.82476	-5.59896	158.98	0.004	0.06	0.936	3
+8630	824598	Bord de route et de tournesol.phasme-sauterelle	triun	36.82476	-5.59896	158.98	0.002	0.263	0.735	3
+8694	849587	Fosse, grande plaine	triun	36.84958	-5.58731	160.43	0.001	0.001	0.998	3
+8696	849587	Fosse, grande plaine	triun	36.84958	-5.58731	160.43	0	0	0.999	3
+8697	849587	Fosse, grande plaine	triun	36.84958	-5.58731	160.43	0	0	0.999	3
+8698	849587	Fosse, grande plaine	triun	36.84958	-5.58731	160.43	0	0	0.999	3
+8699	849587	Fosse, grande plaine	triun	36.84958	-5.58731	160.43	0.001	0	0.999	3
+8700	849587	Fosse, grande plaine	triun	36.84958	-5.58731	160.43	0.037	0.054	0.908	3
+8703	849587	Fosse, grande plaine	triun	36.84958	-5.58731	160.43	0.036	0.103	0.861	3
+8705	849587	Fosse, grande plaine	triun	36.84958	-5.58731	160.43	0	0	0.999	3
+8706	849587	Fosse, grande plaine	triun	36.84958	-5.58731	160.43	0.004	0.002	0.994	3
+8707	849587	Fosse, grande plaine	triun	36.84958	-5.58731	160.43	0.195	0.015	0.79	3
+8709	849587	Fosse, grande plaine	triun	36.84958	-5.58731	160.43	0.007	0.069	0.924	3
+8710	849587	Fosse, grande plaine	triun	36.84958	-5.58731	160.43	0	0	0.999	3
+8711	849587	Fosse, grande plaine	triun	36.84958	-5.58731	160.43	0	0	0.999	3
+8712	849587	Fosse, grande plaine	triun	36.84958	-5.58731	160.43	0.046	0.04	0.914	3
+8713	849587	Fosse, grande plaine	triun	36.84958	-5.58731	160.43	0.001	0.001	0.999	3
+7377	731227Tdur	T. durum, collected on site	Tdur	36.73178	-5.22798	504.33	0	1	0	4
+7412	736542Tdur	T. durum, collected on site	Tdur	36.73666	-5.54266	233.24	0	1	0	4
+7763	764152Tdur	T. durum, collected on site	Tdur	36.762	-5.359		0	1	0	4
+7923	777626Tdur	T. durum, collected on site	Tdur	36.77729	-5.62665	181.57	0	1	0	4
+7945	778180Tdur	T. durum, collected on site	Tdur	36.77809	-5.18025	561.53	0	1	0	4
+8148	794150Taes	T. aestivum, collected on site	Taes	36.7949	-5.15026	591.09	1	0	0	4
+8400	801526Tdur	T. durum, collected on site	Tdur	36.80148	-5.52669	303.42	0	1	0	4
+8422	801630Tdur	T. durum, collected on site	Tdur	36.80159	-5.63028	145.76	0	1	0	4
+8651	830585Tdur	T. durum, collected on site	Tdur	36.83009	5.58594	202.48	0	1	0	4
+7057	CHGS_Esp_aest	T. aestivum, Spanish cultivar: "Asturie H3", Changins accession 547.	Taes				1	0	0	4
+7058	CHGS_Esp_aest	T. aestivum, Spanish cultivar: "Aragon 03", Changins accession 911.	Taes				1	0	0	4
+7060	CHGS_Esp_aest	T. aestivum, Spanish cultivar: "Caspino 1", Changins accession 2012.	Taes				1	0	0	4
+7061	CHGS_Esp_aest	T. aestivum, Spanish cultivar: "Pane 3", Changins accession 2016.	Taes				1	0	0	4
+7062	CHGS_Esp_aest	T. aestivum, Spanish cultivar: "Pane 247", Changins accession 2017.	Taes				1	0	0	4
+7063	CHGS_Esp_aest	T. aestivum, Spanish cultivar: "Ex Cabezzoro", Changins accession 2034.	Taes				1	0	0	4
+7068	CHGS_Esp_aest	T. aestivum, Spanish cultivar: "var. lutescens", Changins accession 2014.	Taes				1	0	0	4
+7069	CHGS_Esp_aest	T. aestivum, Spanish cultivar: "var. milturum", Changins accession 2015.	Taes				1	0	0	4
+7140	CHGS_Esp_aest	T. aestivum, Spanish cultivar: "Montsec", Changins accession 2013.	Taes				1	0	0	4
+7071	CHGS_Esp_durum	T. durum, Spanish cultivar: "Candeal", Changins accession 371.	Tdur				0	1	0	4
+7072	CHGS_Esp_durum	T. durum, Spanish cultivar: "Torcal", Changins accession 436.	Tdur				0	1	0	4
+7073	CHGS_Esp_durum	T. durum, Spanish cultivar: "Lucena 45", Changins accession 1525.	Tdur				0	1	0	4
+7076	CHGS_Esp_durum	T. durum, Spanish cultivar: "No 9", Changins accession 2114.	Tdur				0	1	0	4
+7092	CHGS_Fra_aest	T. aestivum, French cultivar, Changins accession 1989.	Taes				1	0	0	4
+7093	CHGS_Fra_aest	T. aestivum, French cultivar, Changins accession 2184.	Taes				1	0	0	4
+7102	CHGS_Fra_aest	T. aestivum, French cultivar: "Athos", Changins accession 2540.	Taes				1	0	0	4
+7111	CHGS_Fra_durum	T. durum, French cultivar, Changins accession 1565.	Tdur				0	1	0	4
+7112	CHGS_Fra_durum	T. durum, French cultivar: "Lez", Changins accession 2734.	Tdur				0	1	0	4
+7118	CHGS_Ita_aest	T. aestivum, Italian cultivar: "Conte Marzotto", Changins accession 2212.	Taes				1	0	0	4
+7119	CHGS_Ita_aest	T. aestivum, Italian cultivar: "Nobel", Changins accession 5066.	Taes				1	0	0	4
+7124	CHGS_Ita_aest	T. aestivum, Italian cultivar: "Freccia", Changins accession 1406.	Taes				1	0	0	4
+7126	CHGS_Ita_aest	T. aestivum, Italian cultivar: "Generoso 7", Changins accession 1803.	Taes				1	0	0	4
+7128	CHGS_Ita_aest	T. aestivum, Italian cultivar: "San Pastore", Changins accession 1400.	Taes				1	0	0	4
+7139	CHGS_Ita_aest	T. aestivum, Italian cultivar: "Libellula", Changins accession 2409.	Taes				1	0	0	4
+5720	E0613B	Grazalema, foret de chenes	triun	36.75942	-5.38631	1000	0.002	0.001	0.997	1
+5721	E0613B	Grazalema, foret de chenes	triun	36.75942	-5.38631	1000	0.001	0.054	0.945	1
+5722	E0613B	Grazalema, foret de chenes	triun	36.75942	-5.38631	1000	0.001	0.001	0.999	1
+5725	E0613B	Grazalema, foret de chenes	triun	36.75942	-5.38631	1000	0.001	0.001	0.998	1
+5726	E0613B	Grazalema, foret de chenes	triun	36.75942	-5.38631	1000	0.001	0.001	0.998	1
+5730	E0613B	Grazalema, foret de chenes	triun	36.75942	-5.38631	1000	0.001	0.001	0.999	1
+5734	E0613B	Grazalema, foret de chenes	triun	36.75942	-5.38631	1000	0.015	0.006	0.979	1
+5745	E0613B	Grazalema, foret de chenes	triun	36.75942	-5.38631	1000	0	0	0.999	1
